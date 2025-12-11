@@ -1,16 +1,16 @@
-# mobile_app
+# Boo Mobile Developer Test
 
-A new Flutter project.
+## Preview
 
-## Getting Started
+<img alt="Boo Matching Screen" src="screenshot_app.png" width="300" />
 
-This project is a starting point for a Flutter application.
+## Run
 
-A few resources to get you started if this is your first Flutter project:
+- `flutter pub get`
+- Start your debug session; the app opens to the matching page
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Steps To Record
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Scroll first profile, tap `X`
+- Scroll second profile, tap `Heart`
+- Scroll third profile
